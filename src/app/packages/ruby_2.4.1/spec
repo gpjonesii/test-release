@@ -1,0 +1,9 @@
+---
+name: ruby_2.4.1
+
+dependencies: []
+
+files:
+  - ruby-2.4.1.tar.gz
+  - rubygems-2.6.12tgz
+  - bundler-1.15.3.gem
